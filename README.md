@@ -46,7 +46,7 @@
            <summary>[Finclass] Análise de Ações: Indicadores (Fernando Ferreira)</summary>
            <p></p>
            <p>🏁 Conclusão: 30/04/2022 </p>
-           <p>⌛ Duração: 6h 13m</p>
+           <p>⌛ Duração: 6h 54m</p>
            <p>📝 Certificado: A Finclass não emite certificados</p>
          </details>
 
