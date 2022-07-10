@@ -83,11 +83,54 @@
 - - - -
 
 <details>
-           <summary>[Fundaj-PE] Cinema e História na perspectiva de Marc Ferro (2018)</summary>
+           <summary>[Fundaj-PE] Cinema e História na perspectiva de Marc Ferro (Paulo Cunha)</summary>
            <p></p>
            <p>🏁 Conclusão: 14/11/2018</p>
            <p>⌛ Dedicação: 5h 15m</p>
            <p>📝 Certificado: Em breve</p>
+         </details>
+                  
+- - - -
+
+<details>
+           <summary>[Portomídia] Edição e Mixagem de Som para Cinema (Robin O'Donoghue)</summary>
+           <p></p>
+           <p>🏁 Conclusão: Não registrada, mas entre 9 e 13 de março de 2015</p>
+           <p>⌛ Dedicação: Não registrada, mas a carga horária era de 14h</p>
+           <p>📝 Certificado: Em breve</p>
+           <p>🔗 Referência: https://portodigital.org/118/2440-confira-video-da-semana-criativa-britanica</p>
+         </details>
+
+- - - -
+
+<details>
+           <summary>[Portomídia] Composição Musical para Filmes e Games (Annabelle Pangborn)</summary>
+           <p></p>
+           <p>🏁 Conclusão: Não registrada, mas entre 9 e 13 de março de 2015</p>
+           <p>⌛ Dedicação: Não registrada, mas a carga horária era de 14h</p>
+           <p>📝 Certificado: Em breve</p>
+           <p>🔗 Referência: https://portodigital.org/118/2440-confira-video-da-semana-criativa-britanica</p>
+         </details>
+
+- - - -
+
+<details>
+           <summary>[Fundaj-PE] Curso de Projecionista de Cinema (Alexandro Genaro)</summary>
+           <p></p>
+           <p>🏁 Conclusão: 19/12/2014</p>
+           <p>⌛ Dedicação: Não registrada, mas a carga horária era de 40h</p>
+           <p>📝 Certificado: Em breve</p>
+         </details>
+
+- - - -
+
+<details>
+           <summary>[Caixa Cultural] Curso de Introdução à Ópera (Marcelo Ferreira)</summary>
+           <p></p>
+           <p>🏁 Conclusão: 29/08/2014</p>
+           <p>⌛ Dedicação: Não registrada, mas a carga horária era de 20h</p>
+           <p>📝 Certificado: Em breve</p>
+           <p>🔗 Referência: https://www.facebook.com/introducaoaopera/</p>
          </details>
 
 - - - -
