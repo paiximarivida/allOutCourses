@@ -9,13 +9,15 @@
 <!-- ![b7f2ce7adbce11df610e6b67a4e9dc48-sticker](https://user-images.githubusercontent.com/37581896/179653230-bba96207-1106-4de1-b547-0161473db287.png) -->
 
 <details><summary>[LinkedIn Learning] Defining and Achieving Professional Goals (Dorie Clark)</summary>
+
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Conclusão: 19/07/2022</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Dedicação: 1h 02m</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Duração: 27m</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link testando](https://www.linkedin.com/learning/certificates/abad5ca0ea6f1a7fbbe2070f778499304c1a434dd318e8ecd562fb5cf0662f90?trk=share_certificate)</p>
+<p>https://www.linkedin.com/learning/certificates/abad5ca0ea6f1a7fbbe2070f778499304c1a434dd318e8ecd562fb5cf0662f90?trk=share_certificate</p>
 
 </details>
+
 
 <details>
            <summary>[Finclass] Imposto de Renda (Johnny Martins)</summary>
