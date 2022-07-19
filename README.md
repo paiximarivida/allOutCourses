@@ -8,6 +8,7 @@
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Conclusão: 24/06/2022</p>
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Dedicação: 1h 09m</p>
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: A Finclass não emite certificados</p>
+           <p></p>
          </details>
 
 <details>
