@@ -1,6 +1,8 @@
 # ⛳ All Out (14) Courses #
 <!-- ![Group 365 (1)](https://user-images.githubusercontent.com/37581896/79034696-a27e9a80-7b8e-11ea-891f-87697b682878.png) -->
+![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/37581896/179653230-bba96207-1106-4de1-b547-0161473db287.png))
 
+<!-- ![b7f2ce7adbce11df610e6b67a4e9dc48-sticker](https://user-images.githubusercontent.com/37581896/179653230-bba96207-1106-4de1-b547-0161473db287.png) -->
 
 <details>
            <summary>[Finclass] Imposto de Renda (Johnny Martins)</summary>
