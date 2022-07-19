@@ -14,7 +14,7 @@
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Conclusão: 19/07/2022</p>
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Dedicação: 1h 02m</p>
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Duração: 27m</p>
-           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: Em breve</p>
+           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: [Em breve<](https://www.linkedin.com/learning/certificates/abad5ca0ea6f1a7fbbe2070f778499304c1a434dd318e8ecd562fb5cf0662f90?trk=share_certificate)/p>
            <p></p>
          </details>
 
