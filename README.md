@@ -5,9 +5,9 @@
 <details>
            <summary>[Finclass] Imposto de Renda (Johnny Martins)</summary>
            <p></p>
-           <p>🏁 Conclusão: 24/06/2022</p>
-           <p>⌛ Dedicação: 1h 09m</p>
-           <p>📝 Certificado: A Finclass não emite certificados</p>
+           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Conclusão: 24/06/2022</p>
+           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Dedicação: 1h 09m</p>
+           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: A Finclass não emite certificados</p>
          </details>
 
 <details>
