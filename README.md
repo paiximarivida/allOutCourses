@@ -123,5 +123,7 @@
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: Em breve</p>
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 Referência: https://www.facebook.com/introducaoaopera/</p>
          </details>
+         
+ ----
 
 [Referência](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
