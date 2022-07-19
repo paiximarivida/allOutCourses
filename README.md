@@ -124,6 +124,4 @@
            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 Referência: https://www.facebook.com/introducaoaopera/</p>
          </details>
 
-- - - -
-
 [Referência](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
