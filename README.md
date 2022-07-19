@@ -136,4 +136,3 @@
  ----
 
 [Referência](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-[Link](https://www.linkedin.com/learning/certificates/abad5ca0ea6f1a7fbbe2070f778499304c1a434dd318e8ecd562fb5cf0662f90?trk=share_certificate)
