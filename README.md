@@ -1,4 +1,4 @@
-# A por lo 16 #
+# A por lo 17 #
 <!-- ![Group 365 (1)](https://user-images.githubusercontent.com/37581896/79034696-a27e9a80-7b8e-11ea-891f-87697b682878.png) -->
 <!-- ![alt text](https://user-images.githubusercontent.com/37581896/179653230-bba96207-1106-4de1-b547-0161473db287.png) -->
 <p>
@@ -7,6 +7,18 @@
 
  
 <!-- ![b7f2ce7adbce11df610e6b67a4e9dc48-sticker](https://user-images.githubusercontent.com/37581896/179653230-bba96207-1106-4de1-b547-0161473db287.png) -->
+
+
+
+<details><summary>[LinkedIn Learning] Job Seeker Tips (Jenny Foss)</summary>
+
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Extensão: 19/07/2022 - 19/07/2022</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Dedicação: 33m</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏱️ Duração: 17m</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Certificado: https://www.linkedin.com/learning/certificates/932d8b23861073cdb8c0ccc1bbbde11d7f80129bc88e8b34f172dd94dcfec1a8</p>
+
+</details>
 
 <details><summary>[LinkedIn Learning] Defining and Achieving Professional Goals (Dorie Clark)</summary>
 
